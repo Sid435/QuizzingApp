@@ -17,7 +17,6 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class QuizActivity extends AppCompatActivity {
-
     private TextView topicName, timer, question, questions;
     AppCompatButton option_1, option_2, option_3, option_4, nextBtn;
     private Timer quizTimer;
